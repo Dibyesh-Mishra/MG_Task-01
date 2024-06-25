@@ -62,6 +62,8 @@ The dataset used in this project is sourced from Kaggle and consists of the foll
 5. **Questions and Solutions**:
     - Review the `EDA & SQL.ipynb` and `PySpark.ipynb` for a set of 15 questions and their solutions using SQL and PySpark.
 
+#### NOTE:
+You can use VSCode for better experience.
 
 ### Acknowledgments
 
